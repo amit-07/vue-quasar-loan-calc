@@ -12,6 +12,8 @@ npm install
 Run the App locally
 ```
 npm run start
+
+Open http://localhost:8080/ in Chrome or any Suitable browser
 ```
 Feel free to play around with the code on this link:
 [https://codesandbox.io/s/github/amit-07/vue-quasar-loan-calc](url)
